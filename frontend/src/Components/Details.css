@@ -1,0 +1,23 @@
+.link{
+    color: #0066cc;
+    text-decoration: none;
+    left: 15rem;
+    top: 8rem;
+    position: relative;
+    font-size: 20px; 
+    font-weight: bold; 
+    text-decoration: none;
+}
+
+.link:hover{
+    color: brown;
+}
+
+.header-list{
+    left: 15rem;
+    top: 10rem;
+    position: absolute;
+    font-size: 24px; 
+    font-weight: bold; 
+    color:#ff3366
+}
